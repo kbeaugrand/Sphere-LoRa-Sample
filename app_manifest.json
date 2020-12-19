@@ -1,0 +1,13 @@
+{
+  "SchemaVersion": 1,
+  "Name": "Sphere-Lora-Sample",
+  "ComponentId": "9df6877b-82a4-44c4-9f72-586c3288b9ee",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedApplicationConnections": [],
+    "Gpio": [ "$AVNET_MT3620_SK_USER_BUTTON_A", "$AVNET_MT3620_SK_GPIO16", "$AVNET_MT3620_SK_GPIO34" ],
+    "Uart": [ "$AVNET_MT3620_SK_ISU0_UART" ]
+  },
+  "ApplicationType": "Default"
+}

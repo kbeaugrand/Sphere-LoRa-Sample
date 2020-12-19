@@ -1,0 +1,7 @@
+#pragma once
+
+#include <hw/avnet_mt3620_sk.h>
+
+#define LORA_UART_RXTX  AVNET_MT3620_SK_ISU0_UART
+#define LORA_UART_RST   AVNET_MT3620_SK_GPIO16
+#define LORA_UART_CS    AVNET_MT3620_SK_GPIO34
