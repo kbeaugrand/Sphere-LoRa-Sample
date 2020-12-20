@@ -4,7 +4,7 @@ This project aims to demonstrate how we can use an Azure Sphere Module with MIKR
 
 MT3620 | LoRa Click
 ------ | ------
-![MT3620](https://www.element14.com/community/themes/images/2019/AzureSphereKit_angle2.png)  | ![LoRa Click](https://cdn1-shop.mikroe.com/img/product/lora-rf-click/lora-rf-click-large_default-2.jpg)  
+![MT3620](https://kbeaugrandblog.files.wordpress.com/2020/12/azurespherekit_angle2.png?w=800)  | ![LoRa Click](https://cdn1-shop.mikroe.com/img/product/lora-rf-click/lora-rf-click-large_default-2.jpg)  
 
 ## Credits
 
